@@ -2,24 +2,6 @@
 - path: amazed/hepburn-sunglasses-off.gif
   modified_time: 1447420274
   extname: ".gif"
-- path: big-lebowski/ashes-toss.gif
-  modified_time: 1447420274
-  extname: ".gif"
-- path: big-lebowski/gun.gif
-  modified_time: 1447420274
-  extname: ".gif"
-- path: big-lebowski/no-huh-uh.gif
-  modified_time: 1447420275
-  extname: ".gif"
-- path: big-lebowski/polish-my-ball.gif
-  modified_time: 1447420275
-  extname: ".gif"
-- path: big-lebowski/stoned.gif
-  modified_time: 1447420275
-  extname: ".gif"
-- path: big-lebowski/what.gif
-  modified_time: 1447420275
-  extname: ".gif"
 - path: boom/booyah.gif
   modified_time: 1447420275
   extname: ".gif"
@@ -53,17 +35,8 @@
 - path: cats/cat-hat-nofucksgiven.gif
   modified_time: 1447420285
   extname: ".gif"
-- path: cats/cat-nope.gif
-  modified_time: 1447420286
-  extname: ".gif"
 - path: cats/cat-salut.gif
   modified_time: 1447420287
-  extname: ".gif"
-- path: cats/fuck-this-cat.gif
-  modified_time: 1447420288
-  extname: ".gif"
-- path: cats/lazy-cat.gif
-  modified_time: 1447420289
   extname: ".gif"
 - path: cinemagraphs/whiskey-pour.gif
   modified_time: 1447420289
@@ -305,9 +278,6 @@
 - path: fu/finger2.gif
   modified_time: 1447420355
   extname: ".gif"
-- path: fu/fu-computer.gif
-  modified_time: 1447420356
-  extname: ".gif"
 - path: fu/homer.gif
   modified_time: 1447420356
   extname: ".gif"
@@ -332,6 +302,9 @@
 - path: fu/zach-galifianakis.gif
   modified_time: 1447420364
   extname: ".gif"
+- path: fu-computer/fu-computer.gif
+  modified_time: 1447420356
+  extname: ".gif"
 - path: gangsta/1-50-Cent-Laugh-Off.gif
   modified_time: 1447420367
   extname: ".gif"
@@ -355,6 +328,9 @@
   extname: ".gif"
 - path: gtfo/whack.gif
   modified_time: 1447420374
+  extname: ".gif"
+- path: hacking/kermit-type.gif
+  modified_time: 1447432936
   extname: ".gif"
 - path: hacking/typity-type.gif
   modified_time: 1447420376
@@ -431,6 +407,9 @@
 - path: jurassic-park/hold-onto-ur-butts.gif
   modified_time: 1447420399
   extname: ".gif"
+- path: kid-falling/get-off-my-lawn.gif
+  modified_time: 1447428831
+  extname: ".gif"
 - path: laughing/absurd-laugh.gif
   modified_time: 1447420400
   extname: ".gif"
@@ -477,7 +456,7 @@
   modified_time: 1447420423
   extname: ".gif"
 - path: mind-blown/magic.gif
-  modified_time: 1447420429
+  modified_time: 1447429805
   extname: ".gif"
 - path: mind-blown/mind-blown-2.gif
   modified_time: 1447420431
@@ -641,9 +620,6 @@
 - path: upset/conan-ragequit.gif
   modified_time: 1447420460
   extname: ".gif"
-- path: upset/done-with-this.gif
-  modified_time: 1447420461
-  extname: ".gif"
 - path: upset/jumps-out-window2.gif
   modified_time: 1447420462
   extname: ".gif"
@@ -651,9 +627,6 @@
   modified_time: 1447420462
   extname: ".gif"
 - path: upset/obama-kicks-door.gif
-  modified_time: 1447420463
-  extname: ".gif"
-- path: upset/office-tableflip.gif
   modified_time: 1447420463
   extname: ".gif"
 - path: upset/outta-here.gif
@@ -670,9 +643,6 @@
   extname: ".gif"
 - path: upset/whyyyyy.gif
   modified_time: 1447420465
-  extname: ".gif"
-- path: web-dev/family-guy-css.gif
-  modified_time: 1447420466
   extname: ".gif"
 - path: whatever/eye-roll.gif
   modified_time: 1447420466
