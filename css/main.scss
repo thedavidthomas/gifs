@@ -5,13 +5,13 @@
 
 // Mixins & Vars
 
-$navy_bg:             #263648;
-$navy_bg_light:       #2f4358;
+$navy_bg:             #222;
+$navy_bg_light:       #252525;
 $blue_text_drk:       #6784a2;
 $blue_text:           #66adfb;
-$blue_text_lht:       #97afc8;
+$blue_text_lht:       #979797;
 $blue_light:          #d2dae3;
-$green:               #00bd9c;
+$green:               #00ceaa;
 $red:                 #ff6d6f;
 $yellow:              #f8f65e;
 $purple:              #d070d1;
@@ -48,6 +48,9 @@ body{
   font-size:16px;
   line-height:1.5;
   background-color: $navy_bg_light;
+  -webkit-font-smoothing: antialiased;
+  text-rendering:optimizeLegibility;
+  -moz-osx-font-smoothing:grayscale
 }
 
 .page-header {
@@ -98,6 +101,9 @@ body{
     top: 0;
     z-index: 2;
     display: none;
+    object-fit: contain;
+    height: 100%;
+    background-color: $navy_bg;
 
     &[src*=".gif"] { display: block; }
 
