@@ -1,4 +1,5 @@
 ---
+title: DT can haz gif
 layout: home
 ---
 
